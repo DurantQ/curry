@@ -88,8 +88,4 @@ img {
   cursor: pointer;
   text-decoration: underline;
 }
-.fix.active {
-  text-decoration: underline; /* 点击后添加下划线 */
-  background-color: blue;
-}
 </style>
